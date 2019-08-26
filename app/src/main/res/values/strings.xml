@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MTG_v2</string>
+    <string name="enter_player1_name">Player 1</string>
+    <string name="button_set">Set</string>
+    <string name="button_set_reset">Set/Reset</string>
+    <string name="tvLifeP1">Life</string>
+    <string name="buttonLifeUp">+</string>
+    <string name="buttonLifeDown">-</string>
+    <string name="tvCmd">Commander damage</string>
+    <string name="gameMode2">2 players</string>
+    <string name="gameMode3">3 players</string>
+    <string name="gameMode4">4 players</string>
+    <string name="chose_game_mode">Chose Game Mode</string>
+    <string name="_2_players_dual_view">2 Players dual view</string>
+    <string name="reset">Reset</string>
+
+</resources>
